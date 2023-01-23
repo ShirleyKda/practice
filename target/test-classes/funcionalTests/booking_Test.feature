@@ -73,8 +73,9 @@ Feature: Prueba funcional para la reserva
   ##############################################
   # UNHAPPY PATH
   ##############################################
+
   #@pruebita
-  Scenario Outline: [Unhappy path] Validar genere error al buscar una reserva por id como cadena
+  Scenario Outline: [Unhappy path] Validar genere error por no encontrar el recurso al buscar una reserva
     When el busca una reserva especifica "<id_reserva>"
     Then el codigo de respuesta debe ser 404
 
@@ -92,8 +93,9 @@ Feature: Prueba funcional para la reserva
     Examples:
       |nombre      |apellido|
       |  Juan     | Vilchez |
+
   #@pruebita
-  Scenario Outline: [Unhappy path] Validar genere error al actualizar reserva con id tipo letra
+  Scenario Outline: [Unhappy path] Validar genere error de metodo no permitido al actualizar reserva
     Given el selecciona la reserva de ID "uno" para actualizar
     And el reserva con "<nombre>" y "<apellido>"
     And pagando la reserva con 100 soles

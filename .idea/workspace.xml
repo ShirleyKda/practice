@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="494d0f84-4b4e-4a14-ba2d-2189c3a9cc5b" name="Default Changelist" comment="" />
+    <list default="true" id="494d0f84-4b4e-4a14-ba2d-2189c3a9cc5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/booking-com-32-9.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runners/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/screenMobile/booking_screen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screenMobile/booking_screen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/booking_mobile_Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/booking_mobile_Steps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/funcionalTests/booking_Test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/funcionalTests/booking_Test.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/funcionalTests/booking_mobile_Test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/funcionalTests/booking_mobile_Test.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/funcionalTests/createToken_Test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/funcionalTests/createToken_Test.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/funcionalTests/ping_Test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/funcionalTests/ping_Test.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/funcionalTests/booking_Test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/funcionalTests/booking_Test.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/funcionalTests/ping_Test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/funcionalTests/ping_Test.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/booking_Steps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/booking_Steps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/createToken_Steps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/createToken_Steps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/ping_Steps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/ping_Steps.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +32,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -23,8 +43,10 @@
     </option>
   </component>
   <component name="ProjectId" id="2KYVk3oa0p95ggRJ5pgjuNhNmV4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/stepDefinitions" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/App" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -32,6 +54,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SHIRLEY\test\App" />
       <recent name="D:\SHIRLEY\test\src\test" />
     </key>
   </component>
@@ -168,5 +191,32 @@
       <updated>1674151642643</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/booking_mobile_Steps.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/booking_mobile_Steps.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

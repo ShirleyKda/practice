@@ -11,7 +11,9 @@ import org.junit.runner.RunWith;
         glue = {"stepDefinitions"},
         monochrome = true,
         strict = true,
-        tags = {"@pruebita"}
+        tags = {"@prueba"}
 )
 public class TestRunner {
+
+
 }
